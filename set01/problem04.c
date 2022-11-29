@@ -10,8 +10,6 @@ int main(void) {
   return 0;
 
 }
-
-
 void change(int *x, int *y)
 {
   *x=3;
