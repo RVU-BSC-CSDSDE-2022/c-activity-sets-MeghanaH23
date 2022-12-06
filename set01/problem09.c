@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <math.h>
 double input();
@@ -6,7 +7,7 @@ void output(double n, double sqrroot);
 
 int main() {
   double n = input();
-  double sq = square_root(n);
+  double sq = square_root(n);ls
   output(n,sq);
 }
 

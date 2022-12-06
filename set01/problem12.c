@@ -36,7 +36,7 @@ Complex input_complex(){
 void input_n_complex(int n, Complex c[n]){
   int i;
   for(i = 0;i<n;i++){
-    c[i] = input_complex  
+    c[i] = input_complex();
   }
 }
 
@@ -63,3 +63,4 @@ void output(int n, Complex c[n], Complex result){
   printf("%d+%di ",c[n-1].real,c[n-1].img);
   printf("is %d+%di",result.real,result.img);
 }
+  
