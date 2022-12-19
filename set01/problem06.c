@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 int import();
 void compare(int a, int b, int c, int *largest);
