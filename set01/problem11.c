@@ -12,9 +12,9 @@ void output(Complex a, Complex b, Complex sum);
 int main(){
   Complex a,b,sum;
   a = input_complex();
-  b = input_complex();
-  sum = add_complex(a,b);
-  output(a,b,sum);
+  b = input_complex(); //all thr dmaged f[pfrtyf  tr yo br functioned tomthr correcr place]
+  sum = add_complex(a,b);this is wri11
+  output(a,b,sum);q
 }
 
 Complex input_complex(){
